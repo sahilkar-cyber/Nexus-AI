@@ -1,4 +1,4 @@
-# Nexus AI — DevFest Frontend
+# Nexus AI 
 
 A responsive AI productivity workspace built with React, Vite, Tailwind CSS v4, Framer Motion, Recharts, and Lucide icons.
 
