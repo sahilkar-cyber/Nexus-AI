@@ -1,47 +1,101 @@
-# Nexus AI 
+# 🚀 Nexus AI — Intelligent Productivity Workspace
 
-A responsive AI productivity workspace built with React, Vite, Tailwind CSS v4, Framer Motion, Recharts, and Lucide icons.
+**Nexus AI** is a modern AI-powered productivity platform designed to help individuals organize their work, manage tasks, improve focus, and simplify everyday activities through intelligent assistance.
 
-## Run locally
+🌐 **Live Demo:** https://sahilkar-cyber.github.io/Nexus-AI/
 
-1. Install Node.js 18+.
-2. Extract this project.
-3. Open a terminal in the project folder.
-4. Run:
+---
+
+## ✨ Features
+
+- **📊 Smart Dashboard** — Track productivity, daily goals, and work progress.
+- **✅ Task Management** — Create, organize, and complete daily tasks.
+- **🤖 AI Assistant** — An interactive assistant interface for brainstorming, planning, and productivity guidance.
+- **📄 Document Studio** — Summarize documents and extract important information.
+- **📈 Analytics Dashboard** — Visualize productivity and focus statistics.
+- **🌙 Dark Mode** — Switch between light and dark themes.
+- **📱 Responsive Design** — Clean interface designed for different screen sizes.
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|---|---|
+| React.js | Frontend development |
+| Tailwind CSS | Styling and responsive UI |
+| Vite | Development and production build |
+| Framer Motion | UI animations |
+| Recharts | Interactive charts |
+| Lucide React | Icons |
+| GitHub Pages | Website deployment |
+| GitHub Actions | Automated deployment |
+
+## 📸 Project Overview
+
+Nexus AI provides a unified workspace with:
+
+- Productivity overview and analytics
+- Interactive task management
+- AI assistant chat interface
+- Document summarization interface
+- Daily goals and progress tracking
+
+## 🚀 Run Locally
+
+**Prerequisites:** Node.js and npm.
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/sahilkar-cyber/Nexus-AI.git
+```
+
+2. Navigate to the project:
+
+```bash
+cd Nexus-AI
+```
+
+3. Install dependencies:
 
 ```bash
 npm install
+```
+
+4. Start the development server:
+
+```bash
 npm run dev
 ```
 
-5. Open the local URL printed by Vite (usually http://localhost:5173).
-
-## Production build
+5. Create a production build:
 
 ```bash
 npm run build
-npm run preview
 ```
 
-## Features
+## 🌍 Deployment
 
-- Responsive sidebar navigation and dashboard
-- Overview with productivity chart, goals, task list, and AI insight
-- Create and complete tasks (client-side state)
-- AI assistant chat UI with demo responses
-- Document summarizer UI with local demo summarization
-- Analytics page with interactive chart
-- Dark mode toggle
-- Mobile navigation and toast notifications
+Nexus AI is deployed using **GitHub Pages**.
 
-## Important demo note
+GitHub Actions automatically builds and deploys the application whenever changes are pushed to the main branch.
 
-The assistant and document summarizer currently use local demo logic so the frontend works without credentials. To make the AI features production-ready, connect a secure backend endpoint to a model API. Never put a private API key directly in frontend code.
+**Live Website:**  
+https://sahilkar-cyber.github.io/Nexus-AI/
 
-## Suggested DevFest demo flow
+## 🔮 Future Improvements
 
-1. Start at Overview and explain the productivity problem.
-2. Add a task and mark it complete.
-3. Open AI Assistant and ask it to plan your day.
-4. Open Document Studio, paste a short brief, and generate a summary.
-5. Show Analytics and switch to dark mode.
+- Google Gemini API integration for real-time AI assistance.
+- User authentication and personalized profiles.
+- Cloud-based task storage and synchronization.
+- Advanced AI document analysis.
+- Personalized productivity recommendations.
+
+## 🎯 Project Vision
+
+The vision behind Nexus AI is to create a unified intelligent workspace that reduces everyday productivity friction and helps people focus on meaningful work.
+
+---
+
+**Built with ❤️ using React and modern web technologies.**
+
+⭐ If you like this project, consider giving it a star!
