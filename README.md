@@ -2,7 +2,7 @@
 
 **Nexus AI** is a modern AI-powered productivity platform designed to help individuals organize their work, manage tasks, improve focus, and simplify everyday activities through intelligent assistance.
 
-🌐 **Live Demo:** https://sahilkar-cyber.github.io/Nexus-AI/
+🌐 **Live Demo:** [https://sahilkar-cyber.github.io/Nexus-AI/](https://sahilkar-cyber.github.io/Nexus-AI/?utm_source=chatgpt.com)
 
 ---
 
